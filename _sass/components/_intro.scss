@@ -1,0 +1,32 @@
+.intro {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  overflow: hidden;
+
+  h1 {
+    font-size: 42px;
+    font-weight: bold;
+    line-height: 1.2;
+
+
+  }
+  h2 {
+    width: 80%;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    margin-bottom: 30px;
+  }
+  p {
+    font-size: 1.2rem;
+    font-weight: light;
+    line-height: 1.5;
+  }
+}
+
+.intro-small {
+  padding-top: 100px;
+  padding-bottom: 30px;
+}

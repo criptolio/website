@@ -1,0 +1,10 @@
+main:
+  - name: "Inicio"
+    url: "/"
+    weight: 0
+  - name: "Aprende"
+    url: "/aprende/"
+    weight: 1
+  # - name: "Nosotros"
+  #   url: "/nosotros/"
+  #   weight: 2

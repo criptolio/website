@@ -1,0 +1,68 @@
+# Site
+name: "Criptolio"
+title: "Criptolio"
+description: "Aprende de forma sencilla como crear tu portafolio de criptomonedas"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
+baseurl:
+google_analytics: 'G-72YPBZSKY4'
+disqus: 'criptolio'
+mailchimp-list: ''
+include: ["_pages"]
+permalink: /:title/
+
+collections:
+  posts:
+    output: true
+    permalink: /aprende/:title/
+
+# Authors
+authors:
+  jp:
+    name: Juan
+    display_name: Juan Lopez
+    gravatar: 50ece382ed5fadc4ccfaa332e0333e2a
+    email: jp@criptolio.com
+    web: https://www.criptolio.com
+    twitter: https://twitter.com/dolcalmi
+    description: ""
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/aprende/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /aprende/page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-XXXX"
+adsense-data-ad-slot: "XXX"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]

@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Estrategias",
+    "description": "Utiliza estrategias de inversión en criptomonedas al alcance de todos",
+    "image": "assets/images/features/strategy.svg"
+  },
+  {
+    "title": "Educación",
+    "description": "Aprende los conceptos necesarios para usar criptomonedas",
+    "image": "assets/images/features/education.svg"
+  },
+  {
+    "title": "Herramientas",
+    "description": "Accede a herramientas de forma gratuita para administrar y crear tu portafolio",
+    "image": "assets/images/features/finance-tools.svg"
+  }
+]
