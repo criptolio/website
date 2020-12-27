@@ -27,10 +27,10 @@ Como ya te podrás imaginar, en el mejor de los casos, la primera confirmación 
 Si bien no se puede determinar un tiempo exacto en el que una transacción será confirmada, si podrias tener un estimado de tiempo usando lo siguiente:
 
 - Antes de enviar la transacción: puedes usar [Bitcoinfees.net](https://bitcoinfees.net/) para determinar cuánto pagar por la transacción (fee) y estimar el tiempo de la primera confirmación.
-![Costo transacción bitcoin]({{ site.baseurl }}/assets/images/bitcoin/costo-transaccion-bitcoin.png)
+![Costo transacción bitcoin]({{ '/assets/images/bitcoin/costo-transaccion-bitcoin.png' | absolute_url }})
 Recuerda que estos valores son variables y se deben consultar antes de hacer cada transacción.
 - Una vez enviada la transacción: puedes usar [Blockonomics.co](https://www.blockonomics.co/) buscando el comprobante (Tx hash), mostrará el tiempo estimado para la primera confirmación.
-![Tiempo estimado transacción bitcoin]({{ site.baseurl }}/assets/images/bitcoin/tiempo-estimado-transaccion-bitcoin.png)
+![Tiempo estimado transacción bitcoin]({{ '/assets/images/bitcoin/tiempo-estimado-transaccion-bitcoin.png' | absolute_url }})
 
 Adicionalmente, debes tener en cuenta lo siguiente:
 

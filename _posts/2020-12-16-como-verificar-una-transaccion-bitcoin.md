@@ -30,9 +30,9 @@ Debes tener en cuenta que algunos [exchanges]({% post_url 2020-12-18-donde-se-pu
 
 En estos exploradores encontrarás un cuadro de búsqueda en la que puedes pegar tu comprobante (Tx hash) o la dirección de destino y al dar enter o buscar, te mostrará una información similar a lo siguiente:
 
-![Transacción bitcoin sin confirmar]({{ site.baseurl }}/assets/images/bitcoin/bitcoin-transaction-sin-confirmar.png)
+![Transacción bitcoin sin confirmar]({{ '/assets/images/bitcoin/bitcoin-transaction-sin-confirmar.png' | absolute_url }})
 
-![Transacción bitcoin confirmada]({{ site.baseurl }}/assets/images/bitcoin/bitcoin-transaction-confirmada.png)
+![Transacción bitcoin confirmada]({{ '/assets/images/bitcoin/bitcoin-transaction-confirmada.png' | absolute_url }})
 
 Cada explorador presenta la misma información de forma diferente pero básicamente tienes los siguientes datos:
 
