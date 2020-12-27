@@ -32,48 +32,48 @@ Primero debes escoger la más conveniente para lo que necesitas, hay de escritor
 A continuación veremos sus principales características y que opciones tenemos para cada una:
 
 #### Escritorio
-- Conectada a internet (Hot wallet)
-- Las descargas en tu computador
-- Por lo general son las que más opciones de configuración tienen y por lo tanto tienes más control sobre tus transacciones y sobre cómo visualizas tus balances
+- Conectada a internet (Hot wallet).
+- Las descargas en tu computador.
+- Por lo general son las que más opciones de configuración tienen y por lo tanto tienes más control sobre tus transacciones y sobre cómo visualizas tus balances.
 - Debido a la cantidad de opciones de configuración son un poco más complicadas de utilizar para un usuario novato.
-- Seguridad: Administrada por mi
+- Seguridad: tu la administras.
 
-#### Moviles
+#### Móviles
 
-- Conectada a internet (Hot wallet)
-- La descargas a tu móvil desde las tiendas de tu sistema operativo (appstore, playstore)
-- Las actualizaciones son más frecuentes que en las wallets de escritorio
-- Pueden tener menos opciones a la hora de visualizar datos o de realizar transacciones
-- Es la opción más recomendable si no vas a comprar una de hardware
-- Seguridad: Administrada por terceros, Administradas por mi,  Administración mixta
-- Debes indagar bien que tipo de administración de la seguridad ofrece cada app
+- Conectada a internet (Hot wallet).
+- La descargas a tu móvil desde las tiendas de tu sistema operativo (appstore, playstore).
+- Las actualizaciones son más frecuentes que en las wallets de escritorio.
+- Pueden tener menos opciones a la hora de visualizar datos o de realizar transacciones.
+- Es la opción más recomendable si no vas a comprar una de hardware.
+- Seguridad: administrada por terceros, tu la administras, administración mixta.
+- Debes indagar bien que tipo de administración de la seguridad ofrece cada app.
 
 #### Web
 
-- Conectada a internet (Hot wallet)
-- Puedes acceder a ellas desde cualquier browser
+- Conectada a internet (Hot wallet).
+- Puedes acceder a ellas desde cualquier browser.
 - Solo usalas si es absolutamente necesario, por ejemplo cuando necesitas usar otro servicio provisto por la página.
 - En algunas puedes ingresar usando usuario y contraseña, sin embargo, esta opción es menos segura ya que esto quiere decir que probablemente la seguridad de tu wallet esté en sus servidores por lo que se convierten en objetivos para posibles ataques.
-- Tienen las mismas vulnerabilidades que otros sitios web, phishing, ataques mediante plugins o extensiones del browser, etc
-- Seguridad: Administrada por terceros
+- Tienen las mismas vulnerabilidades que otros sitios web, phishing, ataques mediante plugins o extensiones del browser, etc.
+- Seguridad: administrada por terceros.
 
 #### Papel o Paper wallet
 
-- Desconectada de internet (Cold wallet)
+- Desconectada de internet (Cold wallet).
 - La forma de depositar y la seguridad para retirar, literalmente está escrita en un papel.
 - Es de las formas más seguras de almacenar tu bitcoin, sin embargo, es también la más fácil de extraviar si no tienes un lugar seguro donde guardarla.
-- Por lo general es una forma avanzada, aunque de las primeras, y no es recomendable para usuarios novatos
-- Seguridad: Administradas por mi
+- Por lo general es una forma avanzada, aunque de las primeras, y no es recomendable para usuarios novatos.
+- Seguridad: tu la administras.
 
 #### Hardware
 
 - Desconectada de internet (Cold wallet).
-- Es la forma más recomendable si vas a guardar sumas importantes
-- Soportan múltiples criptomonedas, no solo bitcoin
+- Es la forma más recomendable si vas a guardar sumas importantes.
+- Soportan múltiples criptomonedas, no solo bitcoin.
 - Se pueden conectar a través del computador y/o al celular.
 - La seguridad está en un dispositivo, desconectado de internet, similar al que entregan los bancos para las sucursales empresariales.
 - Por lo general tienen tanto aplicaciones de escritorio como para móviles que te facilitan ver los saldos e iniciar depósitos y/o transacciones, sin embargo, después debes confirmar en el dispositivo ya que la seguridad se administra a través de este.
-- Seguridad: Administradas por mi
+- Seguridad: tu la administras.
 
 ### 2. Instalar y configurar la wallet
 
@@ -83,31 +83,31 @@ A continuación podrás encontrar un listado de apps y/o servicios que te ayudar
 
 #### Escritorio
 
-- Recomendada: [https://electrum.org/](https://electrum.org/){:target="_blank"}
-- [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=windows){:target="_blank"}
+- Recomendada: [https://electrum.org/](https://electrum.org/){:target="_blank"}.
+- [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=windows){:target="_blank"}.
 
-#### Moviles  
+#### Móviles  
 
 - Recomendadas:
-  - Administrada por mi: [https://electrum.org/](https://electrum.org/){:target="_blank"}
-  - Administración mixta: [https://zengo.com/](https://zengo.com/){:target="_blank"}
-  - [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=android){:target="_blank"}
+  - Administrada por mi: [https://electrum.org/](https://electrum.org/){:target="_blank"}.
+  - Administración mixta: [https://zengo.com/](https://zengo.com/){:target="_blank"}.
+  - [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=android){:target="_blank"}.
 
 #### Web  
 
-- Recomendadas: [Blockchain.com](https://www.blockchain.com/es/wallet){:target="_blank"} o [Btc.com](https://wallet.btc.com/){:target="_blank"}
+- Recomendadas: [Blockchain.com](https://www.blockchain.com/es/wallet){:target="_blank"} o [Btc.com](https://wallet.btc.com/){:target="_blank"}.
 - Exchanges recomendados:
-  - [Binance](https://www.binance.com/en/register?ref=27967350){:target="_blank"} (centralizado)
-  - [Kraken](https://www.kraken.com/){:target="_blank"} (centralizado)
-  - [Buda](https://buda.com/registro?rf=1E1NIG3HI){:target="_blank"} (centralizado) solo para Argentina, Chile, Colombia y Peru
-  - [Localbitcoins](https://localbitcoins.com/?ch=1fo8o){:target="_blank"} (persona a persona)
-  - [Otros exchanges](https://bitcoin.org/en/exchanges){:target="_blank"}
+  - [Binance](https://www.binance.com/en/register?ref=27967350){:target="_blank"} (centralizado).
+  - [Kraken](https://www.kraken.com/){:target="_blank"} (centralizado).
+  - [Buda](https://buda.com/registro?rf=1E1NIG3HI){:target="_blank"} (centralizado) solo para Argentina, Chile, Colombia y Peru.
+  - [Localbitcoins](https://localbitcoins.com/?ch=1fo8o){:target="_blank"} (persona a persona).
+  - [Otros exchanges](https://bitcoin.org/en/exchanges){:target="_blank"}.
 
 #### Papel o Paper wallet  
 
-- Recomendadas: [Walletgenerator](https://walletgenerator.net/){:target="_blank"} o [Bitaddress](https://www.bitaddress.org/){:target="_blank"}
+- Recomendadas: [Walletgenerator](https://walletgenerator.net/){:target="_blank"} o [Bitaddress](https://www.bitaddress.org/){:target="_blank"}.
 
 #### Hardware  
 
-- Recomendada: [Ledger](http://ledger.refr.cc/juanpablol){:target="_blank"}
-- [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=hardware){:target="_blank"}
+- Recomendada: [Ledger](http://ledger.refr.cc/juanpablol){:target="_blank"}.
+- [Otras](https://bitcoin.org/en/choose-your-wallet?step=5&platform=hardware){:target="_blank"}.
