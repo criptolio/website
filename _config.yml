@@ -4,6 +4,7 @@ title: "Criptolio"
 description: "Aprende de forma sencilla como crear tu portafolio de criptomonedas"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.png'
+url: https://www.criptolio.com
 baseurl:
 google_analytics: 'G-72YPBZSKY4'
 disqus: 'criptolio'
