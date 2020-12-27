@@ -6,7 +6,6 @@ categories: [ inversión ]
 image: assets/images/bitcoin/primera-inversion-bitcoin.jpg
 featured: true
 hidden: true
-rating: 4.5
 ---
 
 Si no tienes experiencia con bitcoin y quieres invertir de forma conservadora, a continuación te presentaré una de las estrategias más sencillas de inversión que te permitirá, no solo ganar algo extra de dinero, si no conocer los conceptos básicos de bitcoin y las criptomonedas.
