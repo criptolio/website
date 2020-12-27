@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-Una wallet es a bitcoin lo que un “home banking” o “app del banco” es a un banco tradicional, es decir, nos permite visualizar el balance, ver la información de depósito y realizar pagos y transferencias a otras personas o negocios.
+Una wallet es a bitcoin lo que un “home banking” o “app del banco” es a un banco tradicional, es decir, nos permite visualizar el balance, ver la información de depósito y realizar pagos/transferencias a otras personas o negocios.
 
 Así como en un banco podemos tener múltiples cuentas, por ejemplo de ahorros o corriente, en una wallet bitcoin tambien podriamos tener diferentes cuentas, generalmente las usamos para dividir nuestro ‘dinero’ de acuerdo al uso que le queramos dar, por ejemplo, podríamos tener una cuenta para hacer [HODL](https://en.wikipedia.org/wiki/Hodl){:target="_blank"} a largo plazo y otra para las transacciones del dia a dia.
 
