@@ -35,6 +35,10 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-minifier
+
+jekyll-minifier:
+  exclude: 'feed.xml'
 
 # Archives
 jekyll-archives:
