@@ -46,7 +46,7 @@ jekyll-archives:
     - categories
   layout: archive
   permalinks:
-    category: '/aprende/categoria#:name'
+    category: '/aprende/categoria/:name'
 
 # Pagination
 paginate: 6
