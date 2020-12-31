@@ -39,7 +39,7 @@ A diferencia de las monedas FIAT, bitcoin es una moneda deflacionaria que tiene 
 
 - Demanda, “en 2018 había 42 millones de millonarios pero solo habrá 21 millones de bitcoins” esto quiere decir que si todos los millonarios quisieran tener al menos 1 bitcoin no sería posible, adicionalmente, las nuevas regulaciones, la entrada de los bancos, la entrada de otros actores financieros como stripe, square o paypal y la demanda del público en general hace que sea una de las mejores inversiones a mediano y largo plazo.
 
-Finalmente, si quieres ver posibles escenarios de inversión y rentabilidades, puedes revisar [dcabtc.com](https://dcabtc.com/)
+Finalmente, si quieres ver posibles escenarios de inversión y rentabilidades, puedes revisar [dcabtc.com](https://dcabtc.com/) o [bitcoindollarcostaverage.com](https://www.bitcoindollarcostaverage.com/)
 
 ## ¿Cómo empiezo?
 
