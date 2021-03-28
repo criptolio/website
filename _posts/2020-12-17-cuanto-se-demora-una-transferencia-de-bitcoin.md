@@ -8,7 +8,7 @@ featured: false
 hidden: false
 ---
 
-Asumiendo el mejor de los casos, a continuación puedes ver el estimado de acuerdo al número confirmaciones requeridas:
+Asumiendo el mejor de los casos, a continuación puedes ver el estimado de acuerdo al número de confirmaciones requeridas:
 
 - 1 Confirmación: ~10 minutos
 - 3 Confirmaciones: ~30 minutos
@@ -16,7 +16,7 @@ Asumiendo el mejor de los casos, a continuación puedes ver el estimado de acuer
 
 La red Bitcoin procesa las transacciones por lotes (conjunto de transacciones o bloques), estos lotes se generan en promedio cada 10 minutos y se agrupan, principalmente, de acuerdo al costo por transacción (fee) pagado, es decir, las transacciones que pagan más se procesan primero.
 
-El procesamiento de una transacción implica la validación de los datos de la misma, que esté estructurada adecuadamente, que tanto origen y destino sean direcciones válidas, que las direcciones origen tengan la cantidad suficiente estipulada en la transacción y que si haya sido enviada por el propietario de las direcciones origen.
+El procesamiento de una transacción implica la validación de los datos de la misma, que esté estructurada adecuadamente, que tanto origen y destino sean direcciones válidas, que las direcciones origen tengan la cantidad suficiente estipulada en la transacción y que sí haya sido enviada por el propietario de las direcciones origen.
 
 De acuerdo a lo anterior y para determinar cuánto se demora una transacción bitcoin, lo más importante es la primera confirmación de la red (cuando la transacción es procesada por la red) y nos obliga replantear la pregunta a **¿Cuánto se demora la primera confirmación?** ya que las siguientes confirmaciones se darán, de acuerdo a lo mencionado, cada 10 minutos en promedio.
 

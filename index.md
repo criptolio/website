@@ -10,8 +10,8 @@ hide_search: true
 hide_tag_explorer: true
 ---
 
-# Crea tu portafolio de criptomonedas.
+# Crea tu portafolio de criptomonedas
 
-Educación y herramientas para aprender de forma sencilla como crear tu portafolio de criptomonedas.
+Educación y herramientas para aprender de forma sencilla cómo crear tu portafolio de criptomonedas.
 
 [Empezar]({% post_url 2020-12-13-primera-inversion-bitcoin %}){:class="d-block btn btn-success"}

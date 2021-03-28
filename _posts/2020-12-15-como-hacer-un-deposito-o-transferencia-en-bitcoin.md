@@ -57,7 +57,7 @@ Ten en cuenta lo siguiente:
 
 - Costo (Fee): Este es uno de los elementos que genera más problemas a la hora de enviar bitcoin. Si no lo configuras correctamente tu transacción podría demorar hasta días en ser confirmada por lo que debes tener en cuenta lo siguiente:
 
-  - Si estás usando la wallet de un exchange, estos definen sus propios costos (fees) verificarlos antes de usarlos ya que pueden ser variables.
+  - Si estás usando la wallet de un exchange, estos definen sus propios costos (fees). Verificalos antes de usarlos ya que pueden ser variables.
   - La unidad que se usa para determinarlo es **Satoshis/vByte**.
   - Puedes ver un valor sugerido de acuerdo al tiempo requerido de confirmacion en: [Bitcoinfees.net](https://bitcoinfees.net/){:target="_blank"}.
   - Si estás enviando una transacción urgente siempre usa el valor más alto.

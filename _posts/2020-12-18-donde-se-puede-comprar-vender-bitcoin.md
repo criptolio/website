@@ -23,9 +23,9 @@ A continuación algunas recomendaciones generales antes de usar alguno de estos 
   - [Coinmarketcap Exchanges](https://coinmarketcap.com/rankings/exchanges/){:target="_blank"}.
   - Buscando en google “is XXX scam” (XXX nombre del servicio o sitio).
 
-- Si no encuentras “reviews” sobre un servicio abstente de usarlo.
+- Si no encuentras *“reviews”* sobre un servicio, abstente de usarlo.
 - Revisa los costos de compra/venta antes de darte de alta en un servicio.
-- Revisa que requerimientos de validación de identidad son necesarios de acuerdo a los montos que vayas a manejar.
+- Revisa qué requerimientos de validación de identidad son necesarios de acuerdo a los montos que vayas a manejar.
 - Revisa si tu país está permitido en el servicio.
 - Siempre prueba primero el funcionamiento con un monto pequeño.
 - Siempre configura el doble factor, al menos para retiros.
